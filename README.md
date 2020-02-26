@@ -1,3 +1,5 @@
+API Key: AIzaSyA53twdnZvZMykF46f49T4fmt8BrSqXfIo
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
